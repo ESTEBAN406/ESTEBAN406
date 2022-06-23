@@ -6,6 +6,15 @@ ___
     </div>
 </html>
 <h3> Mi nombre es Estevan y soy estudiante de la universidad de las fuerzas armadas ESPE "sede latacunga</h3>
+<! –– apartir de esta linea en adelante puedes agregar texto ––> 
+
+
+
+
+
+
+
+
 <HTML>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esteban406&label=Profile%20views&color=0e75b6&style=flat" alt="esteban406" /> </p>
 
