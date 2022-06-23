@@ -5,7 +5,7 @@ ___
   <img src="0e8485ae-5b2c-490c-8215-c315d38fa343.jpeg">
     </div>
 </html>
-<h3> Mi nombre es Estevan y soy estudiante de la universidad de las fuerzas armadas ESPE "sede latacunga</h3>
+<h3> Mi nombre es Esteban y soy estudiante de la universidad de las fuerzas armadas ESPE "sede latacunga</h3>
 <! –– apartir de esta linea en adelante puedes agregar texto ––> 
 
 
