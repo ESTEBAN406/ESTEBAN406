@@ -2,7 +2,7 @@
 ___
 <html>
   <div align="center">
-  <img src="0e8485ae-5b2c-490c-8215-c315d38fa343.jpeg">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flexiquetos.org%2Fnombres-japones%2F%3Fnombre%3Desteban&psig=AOvVaw02UpOzS8Ok8kIamf7IfU_9&ust=1726455639297000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNjp3c36w4gDFQAAAAAdAAAAABAJ">
     </div>
 </html>
 <h3> Mi nombre es Esteban y soy estudiante de la universidad de las fuerzas armadas ESPE "sede latacunga</h3>
@@ -16,7 +16,6 @@ ___
 
 
 <HTML>
-<p align="left"> <img src="https://images.app.goo.gl/WpuJi18NXDuyhDZcA" alt="esteban406" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esteban406" alt="esteban406" /></a> </p>
 
