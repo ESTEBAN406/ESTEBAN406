@@ -1,7 +1,7 @@
 # BIENVENIDO A MI PERFIL
 <html>
   <div align="center">
-  <img src="img-ja-i.png">
+  <img src="1.png">
     </div>
 </html>
 <h3> Mi nombre es Esteban y soy estudiante de la universidad de las fuerzas armadas ESPE "sede latacunga</h3>
